@@ -1,0 +1,48 @@
+Bugatti Divo
+9000
+2
+890
+8.1
+1
+Chris
+2020
+GMC
+35000
+5
+1100
+6.2
+2
+Sidney
+2017
+Kaden
+2020
+Mercedes Benz
+45500
+7
+940
+6.7
+4
+Harry
+2015
+Ron
+2017
+Lorenc
+2019
+Kim
+2021
+Audi Q 8
+16230
+1
+1500
+8.0
+1
+Sam
+2021
+Bugatti Divo
+9000
+2
+890
+8.1
+1
+Chris
+2020

@@ -1,0 +1,43 @@
+2
+Tesla
+40000
+4
+1245
+6
+1
+Nill
+2018
+
+PAS CAR PRINT FUNC
+Places: 2
+Brand: Tesla
+Mileage: 40000
+Age: 4
+Weight: 1245
+Engine capacity: 6
+Owner name: Nill
+Owner year: 2018
+
+PAS CAR PRINT FUNC
+Places: 2
+Brand: 
+Mileage: 0
+Age: 3
+Weight: 1480
+Engine capacity: 2
+Owner name: 
+Owner year: 0
+Owner name: 
+Owner year: 0
+
+PAS CAR PRINT FUNC
+Places: 2
+Brand: 
+Mileage: 0
+Age: 3
+Weight: 1480
+Engine capacity: 2
+Owner name: 
+Owner year: 0
+Owner name: 
+Owner year: 0

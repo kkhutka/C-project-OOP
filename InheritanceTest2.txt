@@ -1,0 +1,46 @@
+3.5
+RAM
+100000
+5
+2.2
+12.1
+2
+Sam 
+2018
+Johnatan
+2020
+TRUCK PRINT FUNC
+Tonnage: 3.5
+Brand: RAM
+Mileage: 100000
+Age: 5
+Weight: 2.2
+Engine capacity: 12.1
+Owner name: Sam
+Owner year: 2018
+Owner name: Johnatan
+Owner year: 2020
+
+TRUCK PRINT FUNC
+Tonnage: 3.5
+Brand: 
+Mileage: 0
+Age: 3
+Weight: 1480
+Engine capacity: 2
+Owner name: 
+Owner year: 0
+Owner name: 
+Owner year: 0
+
+TRUCK PRINT FUNC
+Tonnage: 3.5
+Brand: 
+Mileage: 0
+Age: 3
+Weight: 1480
+Engine capacity: 2
+Owner name: 
+Owner year: 0
+Owner name: 
+Owner year: 0

@@ -1,0 +1,1 @@
+Auto *cararr= new Auto[numc];
